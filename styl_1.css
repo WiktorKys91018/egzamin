@@ -15,7 +15,7 @@ main{
 
 #panelLewy, #PanelPrawy{
     background-color: #b3c6D9;
-    height: 600px;
+    height: 400px;
     width: 25%;
     
 }
@@ -24,7 +24,7 @@ main{
 }
 #panelSrodkowy{
     background-color: #e0e0f1;
-    height: 500px;
+    height: 400px;
     width: 50%;
     text-align: center;
     padding-top: 100px;
